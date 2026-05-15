@@ -1,7 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: Lebenslauf
+nav_title: CV
 nav: true
 nav_order: 1
 cv_pdf: /assets/pdf/Nolte_Lebenslauf_public.pdf # you can also use external links here
