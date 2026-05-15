@@ -6,7 +6,7 @@ email: alnolte@web.de # your email address
 linkedin_username: jan-alister-nolte-65427229b
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: /assets/img/xing-logo.png # can be png, svg, jpg
-  title: XING
-  url: https://www.xing.com/profile/JanAlister_Nolte
+#custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#  logo: /assets/img/xing-logo.png # can be png, svg, jpg
+#  title: XING
+#  url: https://www.xing.com/profile/JanAlister_Nolte
