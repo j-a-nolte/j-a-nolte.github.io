@@ -84,17 +84,37 @@ cv:
         summary: Gefördert durch Vorwerk Elektrowerke GmbH & Co. KG, Förderung für exzellente Leistungen und Engagement
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: IT-Kenntnisse
+        level: Fortgeschritten
+        icon: fa-solid fa-computer
+        keywords: "MS Office | Git | LaTeX"
+
+      - name: IT-Kenntnisse
+        level: Grundlagen
+        icon: fa-solid fa-laptop-code
+        keywords: "Docker | Linux | REST | DevOps | CI/CD"
+
+      - name: Programmiersprachen
+        level: Fortgeschritten
+        icon: fa-solid fa-code
+        keywords: "Python | Java"
+
+      - name: Programmiersprachen
+        level: Grundlagen
+        icon: fa-solid fa-terminal
+        keywords: "C/C++ | C# | R | SQL"
+      
+      - name: Soft Skills
+#        level: 
+        icon: fa-solid fa-comments
+        keywords: "Gewissenhaftigkeit | Analytisches Denken | Durchhaltevermögen"
 
     Sprachen:
       - name: Deutsch
         summary: "Muttersprache"
 
       - name: Englisch
-        summary: "Verhandlungssicher (C1)"
+        summary: "Verhandlungssicher (C2)"
 
       - name: Spanisch
         summary: "Grundkenntnisse (A2)"
@@ -102,11 +122,11 @@ cv:
     Interessen:
       - name: Beruflich
         icon: fa-solid fa-key
-        keywords: "IT-Sicherheit, Security Awareness"
+        keywords: "IT-Sicherheit | Security Awareness | Usable Security"
 
-      - name: Hobbys
+      - name: Freizeit
         icon: fa-solid fa-gamepad
-        keywords: "Videospiele, Musik, Programmieren, Schwimmen, Historischer Schwertkampf"
+        keywords: "Videospiele | Musik | Programmieren | Schwimmen | Historischer Schwertkampf"
 
 #    Zertifikate:
 #      - name: ISC<sup>2</sup> Certified in Cybersecurity

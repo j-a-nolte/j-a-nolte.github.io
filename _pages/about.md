@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Berufseinsteiger IT-Sicherheit</a> | Informatikstudent (B.Sc.) | Psychologe (M.Sc.)
+subtitle: <a href='#'>Berufseinsteiger IT-Sicherheit</a> <b>|</b> Informatikstudent <b>|</b> Psychologe
 
 profile:
   align: right
@@ -16,10 +16,10 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Ich bin **Informatikstudent** (B.Sc.) und habe bereits einen Master of Science in **Psychologie** abgeschlossen. Nach meinem Studium möchte ich in die Welt der **IT-Sicherheit** einsteigen.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Mein interdisziplinärer akademischer Werdegang eröffnet mir dabei eine besondere Perspektive, mit der ich einen wertvollen Beitrag zur IT-Sicherheit leisten möchte. In der Praxis zeigt sich, dass ein Großteil von Sicherheitsvorfällen nicht auf rein technische Schwachstellen zurückzuführen ist, [sondern auf menschliches Verhalten](https://www.mimecast.com/resources/ebooks/state-of-human-risk/). Es ist meine Überzeugung, dass Sicherheitskonzepte nur dann erfolgreich sein können, wenn sowohl technische und als auch psychologische Aspekte berücksichtigt werden.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Bereits zu Beginn meines Psychologiestudiums arbeitete ich als studentische Hilfskraft und entwickelte früh eine strukturierte und zuverlässige Arbeitsweise. Als wissenschaftliche Hilfskraft am neuropsychologischen Lehrstuhl war ich verantwortlich für die Programmierung psychologischer Experimente, die unter anderem im Rahmen von EEG-Studien eingesetzt wurden. Während dieser Tätigkeit entdeckte ich meine Begeisterung für Technik und Informatik neu, was mich zur Aufnahme des Informatikstudium motivierte.
 
-I am testing this stuff rn.
+Heute verbinde ich mein technisches Wissen aus dem Informatikstudium mit meinem psychologischen Hintergrund und möchte diese Kombination künftig in der IT-Sicherheit einsetzen, um Sicherheitslösungen zu entwickeln, die technisch robust und zugleich auf menschliche Faktoren abgestimmt sind.
