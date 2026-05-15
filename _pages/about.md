@@ -9,7 +9,7 @@ profile:
   image: picture.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[alnolte@web.de](mailto:alnolte@web.de)</p>
+    <p><a href="mailto:alnolte@web.de">alnolte@web.de</a></p>
     <p>Wuppertal, Deutschland</p>
 
 social: true # includes social icons at the bottom of the page
