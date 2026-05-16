@@ -16,9 +16,9 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-Ich bin **Informatikstudent** (B.Sc.) und habe bereits einen Master of Science in **Psychologie** abgeschlossen. Nach meinem Studium möchte ich in die Welt der **IT-Sicherheit** einsteigen.
+Derzeit studiere ich **Informatik** (B.Sc.) und habe bereits einen Master of Science in **Psychologie** erworben. Nach meinem Studium möchte ich in die Welt der **IT-Sicherheit** einsteigen.
 
-Mein interdisziplinärer akademischer Werdegang eröffnet mir dabei eine besondere Perspektive, mit der ich einen wertvollen Beitrag zur IT-Sicherheit leisten möchte. In der Praxis zeigt sich, dass ein Großteil von Sicherheitsvorfällen nicht auf rein technische Schwachstellen zurückzuführen ist, [sondern auf menschliches Verhalten](https://www.mimecast.com/resources/ebooks/state-of-human-risk/). Es ist meine Überzeugung, dass Sicherheitskonzepte nur dann erfolgreich sein können, wenn sowohl technische und als auch psychologische Aspekte berücksichtigt werden.
+Mein interdisziplinärer akademischer Werdegang eröffnet mir dabei eine besondere Perspektive, mit der ich einen wertvollen Beitrag zur IT-Sicherheit leisten möchte. In der Praxis zeigt sich, dass ein Großteil von Sicherheitsvorfällen [auf menschliches Verhalten zurückzuführen ist](https://www.mimecast.com/resources/ebooks/state-of-human-risk/). Es ist meine Überzeugung, dass Sicherheitskonzepte nur dann erfolgreich sein können, wenn sowohl technische und als auch psychologische Aspekte berücksichtigt werden.
 
 Bereits zu Beginn meines Psychologiestudiums arbeitete ich als studentische Hilfskraft und entwickelte früh eine strukturierte und zuverlässige Arbeitsweise. Als wissenschaftliche Hilfskraft am neuropsychologischen Lehrstuhl war ich verantwortlich für die Programmierung psychologischer Experimente, die unter anderem im Rahmen von EEG-Studien eingesetzt wurden. Während dieser Tätigkeit entdeckte ich meine Begeisterung für Technik und Informatik neu, was mich zur Aufnahme des Informatikstudium motivierte.
 
