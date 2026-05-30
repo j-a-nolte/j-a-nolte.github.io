@@ -65,13 +65,12 @@ cv:
       - company: Bergische Universität Wuppertal
         position: Studentische Hilfskraft in der Testothek
         location: Wuppertal
-        start_date: 02/2021
-        end_date: 03/2025
+        start_date: 07/2019
+        end_date: 09/2021
         summary: Lehrstuhl der Methodenlehre und psychologischen Diagnostik
         highlights:
-          - Programmierung psychologischer Experimente
-          - Statistische Auswertung quantitativer Daten
-          - Aufbau einer Versuchspersonendatenbank
+          - Inneruniversitäre Ausgabe psychologischer Tests
+          - Organisation & Instandhaltung der Testdatenbank
 
     Auszeichnungen:
       - title: Deutschlandstipendium
